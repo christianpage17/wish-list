@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Quantity</column_label>
+        <column_label>Quantité</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -55,13 +55,13 @@
         <sys_created_on>2021-11-22 21:22:45</sys_created_on>
         <sys_id>a8d9266487440110d392eb173cbb35be</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Quantity</sys_name>
+        <sys_name>Quantité</sys_name>
         <sys_package display_value="List Wish" source="x_720704_list_wish">bcf3a62087440110d392eb173cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="List Wish">bcf3a62087440110d392eb173cbb352b</sys_scope>
         <sys_update_name>sys_dictionary_x_720704_list_wish_wish_item_quantity</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-22 21:22:45</sys_updated_on>
+        <sys_updated_on>2021-11-23 13:28:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
